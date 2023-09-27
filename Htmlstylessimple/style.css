@@ -4,11 +4,12 @@ background-color: #A0BFE0;
 h1 {
   background-color: #4A55A2;
   font-size: 300%;
-  text-align: center
+  text-align: center;
 
 }
 h1, h2, p {
   font-family: 'Mooli', sans-serif;
+  text-align: center;
 }
 p {
   font-size: 200% ;
@@ -19,6 +20,31 @@ h2 {
   font-size: 200% ;
   text-align: center
 }
+a {
+  font-size:xx-large;
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+  float: right;
+}
+
+a:visited {
+  color: greenyellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color:red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
 
 
  
