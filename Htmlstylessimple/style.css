@@ -1,0 +1,68 @@
+body {
+background-color: #A0BFE0;
+
+}
+h1 {
+  background-color: #4A55A2;
+  font-size: 300%;
+  text-align: center;
+
+}
+h1, h2, p {
+  font-family: 'Mooli', sans-serif;
+  text-align: center;
+}
+p {
+  font-size: 200% ;
+  text-align: left;
+  /*background-color: #C5DFF8; This is Temporary*/
+  background-image: url("/img/download\ \(7\).jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h2 {
+  font-size: 200% ;
+  text-align: center
+}
+a {
+  font-size:xx-large;
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+  float: right;
+}
+
+a:visited {
+  color: rgb(43, 71, 0);
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color:red;
+  background-color: transparent;
+  text-decoration: none;
+}
+img {
+  background: inherit;
+  height: 30vh;
+  
+}
+h3 {
+  font-size: 200%;
+  padding-left: 10%;
+}
+
+#h2-1 {
+  font-size: 150%;
+}
+
+
+
+
+ 
