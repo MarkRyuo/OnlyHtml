@@ -1,0 +1,24 @@
+body {
+background-color: #A0BFE0;
+}
+h1 {
+  background-color: #4A55A2;
+  font-size: 300%;
+  text-align: center
+
+}
+h1, h2, p {
+  font-family: 'Mooli', sans-serif;
+}
+p {
+  font-size: 200% ;
+  text-align: left;
+  background-color: #C5DFF8;
+}
+h2 {
+  font-size: 200% ;
+  text-align: center
+}
+
+
+ 
