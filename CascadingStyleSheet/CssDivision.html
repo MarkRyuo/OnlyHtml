@@ -6,6 +6,12 @@
   <link rel="icon" type="image/x-icon" href="/img/girldenji.jpg">
   <title>Division(div)</title>
   <style>
+    * {
+      font-size: 20vw; /*root eto*/
+      /*vw means viewport width
+      and vh naman ay viewport height*/
+
+    }
 
     div {
       color: #05668d;
@@ -15,31 +21,38 @@
 
     .div1 {
       background-color: #1b263b;
-      width: 300px;
-      height: 100px;
-      position:absolute;
+      width: 30vw;
+      height: 40vh;
+      position:relative;
       top: 0px;
       left: 120px;
       z-index: 1;
+      text-align: center;
+      font-size: 0.2rem; 
+      /*rem R means Root ang root natin ay ang html tag
+      ang em naman ay elements*/
     }
     .div2 {
       background-color: #778da9;
       width: 300px;
       height: 100px;
-      position: absolute;
+      position: relative;
       top: 40px;
       left: 130px;
       z-index: 3;
+      text-align: center;
+      font-size: 2rem;
 
     }
     .div3 {
       background-color: #e0e1dd;
       width: 300px;
       height: 100px;
-      position: absolute;
+      position: relative;
       top: 90px;
       left: 150px;
       z-index: 2;
+      text-align: center;
     }
 
   </style>
