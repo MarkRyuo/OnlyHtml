@@ -7,12 +7,12 @@ body {
 }
 
 .Header-main {
-  width: 100%;
+  width: 100vh;
   height: 80px;
   background-color: #013a63;
   margin-top: 0;
-  margin-left: 10px;
-  margin-right: 10px%;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 
 .Header-main-logo {
