@@ -1,0 +1,16 @@
+body {
+  background-color: azure;
+}
+
+.red {
+  background-color: red;
+  width: 50px;
+  height: 40px;
+  position: absolute;
+}
+.blue {
+  background-color: blue;
+  width: 50px;
+  height: 50px;
+  position: relative;
+}
