@@ -11,16 +11,18 @@ body {
 .Header-main-logo {
   margin-top: 20px;
   font-size: 40px;
-  margin-left: 30px;
+  margin-left: 115px;
+  float: left;
   position: absolute;
   color: #283b31;
+  z-index: 2;
 }
 
 .about {
   float: right;
-  margin-right: 50px;
-  margin-top: 20px;
-  font-size: 40px;
+  margin-right: 60px;
+  margin-top: 30px;
+  font-size: 30px;
   position: relative;
 }
 a {
@@ -31,4 +33,26 @@ a:hover {
   color: #dad7cd;
   background-color: transparent;
   text-decoration: none;
+}
+
+.contact {
+  float: right;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-right: 20px;
+  position: relative;
+}
+
+#image {
+  margin-top: 10px;
+  width: 80px;
+  margin-left: 30px;
+  border: 1px solid #344e41;
+  border-radius: 40px;
+
+  
+}
+.Logo-image {
+  position: absolute;
+  z-index: 1;
 }
