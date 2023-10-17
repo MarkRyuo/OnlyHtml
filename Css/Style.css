@@ -44,3 +44,11 @@ body {
   margin: 30px;
   padding: 30px;
 }
+
+.container-3 a img {
+  width: 400px;
+}
+
+.container-3 {
+  text-align: center;
+}
