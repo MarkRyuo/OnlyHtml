@@ -55,4 +55,9 @@ body {
 
 .container-4 table tr td {
    border: 1px solid black;
+   font-size: 30px;
+}
+.container-4 table th td {
+   border: 1px solid black;
+   font-size: 30px;
 }
