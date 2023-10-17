@@ -36,3 +36,11 @@ body {
   margin: 50px;
   text-align: center;
 }
+
+.container-2 {
+  font-size: 40px;
+  font-family:'Times New Roman', Times, serif ;
+  text-align: justify;
+  margin: 30px;
+  padding: 30px;
+}
