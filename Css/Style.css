@@ -30,4 +30,9 @@ body {
 }
 
 
+/* Homepage */
 
+.container-1 {
+  margin: 50px;
+  text-align: center;
+}
