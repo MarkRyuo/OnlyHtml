@@ -71,3 +71,9 @@ body {
   font-size: 50px;
   margin-left: 500px;
 }
+
+.canvas {
+  margin: 100px;
+  padding: 20px;
+}
+
