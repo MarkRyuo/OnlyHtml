@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>label-1</title>
+  <style>
+    div input, label {
+      width: 100px;
+  
+    }
+
+    form {
+      border: 2px solid black;
+      height: 500px;
+      text-align: center;
+      align-items: flex-end;
+    }
+  </style>
+
+</head>
+<body>
+    
+    <form action="">
+      <div class="fName">
+        <label for="fName">Fullname</label>
+        <input type="text" id="fName" name="fName" placeholder="fullname" required>
+      </div>
+
+      <div class="lName">
+        <label for="lName">Lastname</label>
+        <input type="text" id="lName" name="lName" placeholder="Lastname" required>
+      </div>
+
+      <div class="password">
+        <label for="Password">Password</label>
+        <input type="password" id="password"  name="password" required>
+      </div>
+
+      <div class="submit">
+        <input type="submit">
+      </div>
+
+      <div class="reset">
+        <input type="reset">
+      </div>
+    </form>
+
+</body>
+</html>
